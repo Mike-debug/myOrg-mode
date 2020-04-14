@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">org</string>
+    <string name="CancelBtn">Cancel</string>
+    <string name="SaveBtn">Save</string>
+    <string name="EditItem">Edit Item</string>
+    <string name="Saveto">Save to</string>
+    <string name="Hello">Hello</string>
+    <string name="newfile">new file</string>
+    <string name="State">State</string>
+    <string name="todo">TODO</string>
+
+    <string name="radiohello">选择你最喜欢的课程：</string>
+    <string name="music">音乐</string>
+    <string name="gym">体育</string>
+    <string name="dance">舞蹈</string>
+    <string name="lookBook">看书</string>
+
+</resources>
